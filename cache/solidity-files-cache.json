@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\adura\\OneDrive\\Documents\\coding\\mo-dapp-tut\\contracts\\MDToken.sol": {
+      "lastModificationDate": 1706834291529,
+      "contentHash": "27c669e0bf69d5bbdd537f54e52d6f5e",
+      "sourceName": "contracts/MDToken.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    },
+    "C:\\Users\\adura\\OneDrive\\Documents\\coding\\hardhat-ethers-dapp\\contracts\\MDToken.sol": {
+      "lastModificationDate": 1706834291529,
+      "contentHash": "27c669e0bf69d5bbdd537f54e52d6f5e",
+      "sourceName": "contracts/MDToken.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    }
+  }
+}
